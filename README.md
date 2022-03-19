@@ -1,1 +1,3 @@
 # F1-2021-Telemetry
+
+Leave it to Fuckmasters to code it up. They have not provided UDP specifications outside paywalls...
